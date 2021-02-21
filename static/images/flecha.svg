@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="8px" viewBox="0 0 25 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flecha</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.496,7.088 C21.552,5.872 22.768,4.688 24.304,4.032 L24.304,3.872 C22.768,3.232 21.552,2.016 20.512,0.816 L20.192,1.12 C20.544,1.648 21.04,2.224 21.504,2.672 C21.664,2.832 21.728,2.928 21.728,3.072 C21.728,3.232 21.472,3.424 21.312,3.424 L0.88,3.424 L0.88,4.48 L21.296,4.48 C21.584,4.48 21.712,4.64 21.712,4.8 C21.712,4.928 21.632,5.104 21.488,5.248 C21.008,5.744 20.544,6.256 20.176,6.784 L20.496,7.088 Z" id="flecha" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

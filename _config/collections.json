@@ -1,0 +1,42 @@
+{
+  "-47f0342e": {
+    "collection": "proyecto",
+    "query": {
+      "offset": 0,
+      "limit": 3,
+      "fields": [
+        {
+          "fieldPath": "categoria",
+          "operatorName": "eq",
+          "value": "categoria/tours-virtuales.md"
+        }
+      ]
+    }
+  },
+  "669f41ea": {
+    "collection": "proyecto",
+    "query": {
+      "offset": 0,
+      "limit": 3,
+      "fields": [
+        {
+          "fieldPath": "categoria",
+          "operatorName": "eq",
+          "value": "categoria/street-view.md"
+        }
+      ]
+    }
+  },
+  "-14e88f23": {
+    "collection": "proyecto",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "categoria",
+          "operatorName": "eq",
+          "value": "categoria/tours-virtuales.md"
+        }
+      ]
+    }
+  }
+}
